@@ -1,0 +1,1 @@
+web: gunicorn otro_proyecto.wsgi
